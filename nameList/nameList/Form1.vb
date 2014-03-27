@@ -4,7 +4,7 @@
         'Add your name after the last one entered
 
         lbNameList.Items.Add("Wil")
-
+        lbNameList.Items.Add("Roger")
 
 
     End Sub
